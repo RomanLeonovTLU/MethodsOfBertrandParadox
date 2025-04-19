@@ -1,2 +1,7 @@
 # MethodsOfBertrandParadox
-Bertrandi paradoksi viie meetodi simulatsioonid GeoGebras
+Bertrandi paradoksi viie meetodi simulatsioonid GeoGebras, mis on tehtud Monte Carlo meetodiga.
+Esimene meetod on juhusliku raadiuse meetod. Selle meetodi puhul tõenäosus, et juhuslik kõõl on pikem kui võrdkülgse kolmnurga külg, on võrdne 1/2. 
+Teine meetod on juhuslike otspunktide meetod. Selle meetodi puhul tõenäosus, et juhuslik kõõl on pikem kui võrdkülgse kolmnurga külg, on võrdne 1/3.
+Kolmas meetod on juhusliku keskpunkti meetod. Selle meetodi puhul tõenäosus, et juhuslik kõõl on pikem kui võrdkülgse kolmnurga külg, on võrdne 1/4.
+Neljas meetod on juhusliku punkti ja juhusliku tõusu meetod. Selle meetodi puhul tõenäosus, et juhuslik kõõl on pikem kui võrdkülgse kolmnurga külg, on võrdne ligikaudu 0,609.
+Viies meetod on kahe ringi sees oleva juhusliku punkti meetod. Selle meetodi puhul tõenäosus, et juhuslik kõõl on pikem kui võrdkülgse kolmnurga külg, on võrdne ligikaudu 0,7449.
