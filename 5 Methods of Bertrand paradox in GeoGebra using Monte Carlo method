@@ -1,7 +1,1 @@
-Ringile joonistatakse juhuslik kõõl.
-Failides Bertrand1MonteCarlo.ggb, Bertrand2MonteCarlo.ggb, Bertrand3MonteCarlo.ggb, Bertrand4MonteCarlo.ggb, Bertrand5MonteCarlo.ggb kasutatakse viite erinevat juhusliku kõõlu moodustamise meetodit selleks, et leida Monte Carlo meetodi abil tõenäosus, et juhuslik kõõl on pikem kui ringi sisse joonestatud võrdkülgse kolmnurga külg.
-Failis Bertrand1MonteCarlo.ggb kasutatakse juhuslike kõõlude konstrueerimiseks juhusliku raadiuse meetodit. Tehakse kuni 2000 katset ja saadakse tõenäosus, mis on ligikaudu 1/2.
-Failis Bertrand2MonteCarlo.ggb kasutatakse juhuslike kõõlude konstrueerimiseks juhuslike otspunktide meetodit. Tehakse kuni 2000 katset ja saadakse tõenäosus, mis on ligikaudu 1/3.
-Failis Bertrand3MonteCarlo.ggb kasutatakse juhuslike kõõlude konstrueerimiseks juhusliku keskpunkti meetodit. Tehakse kuni 10000 katset ja saadakse tõenäosus, mis on ligikaudu 1/4.
-Failis Bertrand4MonteCarlo.ggb kasutatakse juhuslike kõõlude konstrueerimiseks juhusliku punkti ja juhusliku tõusu meetodit. Tehakse kuni 3000 katset ja saadakse tõenäosus, mis on ligikaudu 0,609.
-Failis Bertrand2MonteCarlo.ggb kasutatakse juhuslike kõõlude konstrueerimiseks kahe ringi sees oleva juhusliku punkti meetodit. Tehakse kuni 3000 katset ja saadakse tõenäosus, mis on ligikaudu 0,7449.
+
